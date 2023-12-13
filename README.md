@@ -62,4 +62,4 @@ You can **NOT** deploy to Netlify, Cloudflare Pages, Github Pages or any other *
 # Credits
 Huge thanks to following people for contributing to Interstellar!
 
-[![Contrib](https://contrib.rocks/image?repo=https://github.com/Shadowproxynetwork/Shadownetwork/graphs/contributors
+https://github.com/Shadowproxynetwork/Shadownetwork/graphs/contributors
